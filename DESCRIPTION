@@ -1,0 +1,12 @@
+Package: smalltools
+Type: Package
+Title: many small tools
+Version: 0.2.4
+Author: Fei Liang <liangfei@mail.example.com>
+Maintainer: Fei Liang <tplate@acm.org>
+Description: many small tools
+License: MIT
+Imports: ggplot2,PerformanceAnalytics,gclus,ggrepel,RColorBrewer,ggpubr,ropls,FactoMineR,factoextra,corrplot,reshape2,fmsb,eoffice,plyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
